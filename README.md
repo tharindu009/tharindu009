@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tharindu009
 - 👀 I’m interested in Programming and Playing Games
-- 🌱 I’m currently learning ASP.NET Core & Angular
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Projects, Questions and many more
 - 📫 How to reach me tharindu009@hotmail.com
 
